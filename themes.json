@@ -1,0 +1,18 @@
+{
+    "material": {
+        "kronolith": {
+            "provider": "\/srv\/www\/horde\/vendor\/horde\/theme-material",
+            "linkDir": "\/srv\/www\/horde\/vendor\/horde\/theme-material\/kronolith",
+            "themeName": "material",
+            "packageName": "theme-material",
+            "vendorName": "horde"
+        },
+        "horde": {
+            "provider": "\/srv\/www\/horde\/vendor\/horde\/theme-material",
+            "linkDir": "\/srv\/www\/horde\/vendor\/horde\/theme-material\/horde",
+            "themeName": "material",
+            "packageName": "theme-material",
+            "vendorName": "horde"
+        }
+    }
+}
